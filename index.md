@@ -2,8 +2,7 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+  Hi, I'm Bilel, check out my website!
 image: /assets/images/main.jpeg
 main_content: >
   # Hi! I'm Bilel.
@@ -31,7 +30,7 @@ I am a research assistant at  [REALISE Lab](https://realiselab.github.io/) at [C
 
 - Summer Intern at [Tunisie Telecom](https://www.linkedin.com/company/tunisie-t-l-comhttps://www.linkedin.com/company/tunisie-t-l-com) (Jul 2020-Aug 2020)
 
-- Summer Intern at [Tunisair Handling](https://www.linkedin.com/company/tunisair-handling) (Jul 2020-Aug 2020)
+- Summer Intern at [Tunisair Handling](https://www.linkedin.com/company/tunisair-handling) (Jul 2018-Aug 2018)
 
 ## Education
 
@@ -44,3 +43,7 @@ I am a research assistant at  [REALISE Lab](https://realiselab.github.io/) at [C
 ## Research interest
 
 Going back to academia, I wanted to work in an environment that aims to bring research and the industry together. Therefore, I'm working with my supervisor, Professor [Diego Elias Costa](https://diegoeliascosta.github.io/), to help performance engineering teams across the industry with alleviating challenges they're encoutering in an attempt to provide performant applications for the end user, especially that these solutions are becoming more complex by the day, making it necessary yet challenging to keep record of performance changes and fix them accordingly.
+
+## Volunteering
+
+- English Language Teacher with [AIESEC](https://aiesec.org/) Morocco (Jun 2018-Jul 2019)
