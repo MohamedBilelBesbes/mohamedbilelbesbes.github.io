@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embarking a new academic journey in a Canada
+title: Embarking a new academic journey in Canada
 image: "/assets/images/bilel-joins-concordia.png"
 category: Career Updates
 author: Me

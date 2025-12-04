@@ -35,6 +35,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-polyglot
+  - jekyll-sitemap
 
 ##
 # Polyglot configuration
