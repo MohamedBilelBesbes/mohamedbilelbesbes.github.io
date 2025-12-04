@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['andres.ch@protonmail.com']
 
   spec.summary       = 'A clean, versatile Jekyll theme with minimalist design and robust features. Ideal for portfolios, blogs, and project showcases with responsive layouts and easy customization.'
-  spec.homepage      = 'https://github.com/a-chacon/awesome-jekyll-portfolio'
+  spec.homepage      = 'https://github.com/MohamedBilelBesbes/MohamedBilelBesbes'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|

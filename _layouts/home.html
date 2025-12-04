@@ -27,6 +27,17 @@ layout: default
   </div>
 </section>
 
+{% assign trimmed_content = content | strip | replace: "\n", "" | replace: "\r", "" | replace: "\t", "" %} 
+
+{% if trimmed_content != "" %}
+  <section
+    id="content"
+    class="inout container mx-auto flex flex-col items-center justify-center min-h-screen"
+  >
+    <article class="prose prose-lg dark:prose-invert prose-h1:text-5xl prose-h2:text-3xl mx-auto py-16" data-motion="fadeInUp">{{content}}</article>
+  </section>
+{% endif %}
+
 {% if site.posts.size > 0 %}
 <section
   id="blog"
@@ -88,17 +99,6 @@ layout: default
   </div>
 </section>
 {% endif %} 
-
-{% assign trimmed_content = content | strip | replace: "\n", "" | replace: "\r", "" | replace: "\t", "" %} 
-
-{% if trimmed_content != "" %}
-  <section
-    id="content"
-    class="inout container mx-auto flex flex-col items-center justify-center min-h-screen"
-  >
-    <article class="prose prose-lg dark:prose-invert prose-h1:text-5xl prose-h2:text-3xl mx-auto py-16" data-motion="fadeInUp">{{content}}</article>
-  </section>
-{% endif %}
 
 <div
   id="dot-nav"

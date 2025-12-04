@@ -4,26 +4,43 @@ title: Home
 description: >-
   Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
   en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/main.avif
+image: /assets/images/main.jpeg
 main_content: >
-  # Hello Friend. Hello World.
+  # Hi! I'm Bilel.
+   
+   📍 Montréal
 
-
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  **I'm a research assistant at Concordia University. My work revolves around enhancing performance quality check at industrial software engineering workflows. I have a humble DevOps experience. Particularly, Azure, Kubernetes, Docker, and Jenkins are where I shine.**
 footer: true
 permalink: /
 ---
-## Hello World
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+## Get to know me more
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+I am a research assistant at  [REALISE Lab](https://realiselab.github.io/) at [Concordia University](https://www.concordia.ca/) in beautiful Montréal, Québec, Canada. But right before coming to Montréal to do research, I was in the industry for about one year and a half working as a DevOps engineer. Now, I'm back to academia working on how to improve the performance of every day usage applications.
 
+## Experience
+
+- Research Assistant at [REALISE Lab](https://realiselab.github.io/) at [Concordia University](https://www.concordia.ca/) (Jan 2024-Present)
+
+- DevOps Engineer at [Cognira](https://www.linkedin.com/company/cognira) (Jul 2022-Dec 2023)
+
+- Backend Intern at [Cognira](https://www.linkedin.com/company/cognira) (Feb 2022-Jun 2022)
+
+- Fullstack Intern at [HRDataBank](https://www.linkedin.com/company/hrdatabank-tunisie) (Aug 2020-Sep 2020)
+
+- Summer Intern at [Tunisie Telecom](https://www.linkedin.com/company/tunisie-t-l-comhttps://www.linkedin.com/company/tunisie-t-l-com) (Jul 2020-Aug 2020)
+
+- Summer Intern at [Tunisair Handling](https://www.linkedin.com/company/tunisair-handling) (Jul 2020-Aug 2020)
+
+## Education
+
+- Software Engineering masters at [Concordia University](https://www.concordia.ca/) (Jan 2024-Present)
+
+- ICT Engineering at [Sup'Com](https://www.supcom.tn/) (Sep 2019-Jun 2022)
+
+- ICT Engineering at [IPEIM](https://ipeim.rnu.tn/) (Sep 2017-Jun 2019)
+
+## Research interest
+
+Going back to academia, I wanted to work in an environment that aims to bring research and the industry together. Therefore, I'm working with my supervisor, Professor [Diego Elias Costa](https://diegoeliascosta.github.io/), to help performance engineering teams across the industry with alleviating challenges they're encoutering in an attempt to provide performant applications for the end user, especially that these solutions are becoming more complex by the day, making it necessary yet challenging to keep record of performance changes and fix them accordingly.
